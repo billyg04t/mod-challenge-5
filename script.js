@@ -1,5 +1,4 @@
 // Function to apply past, present, and future styles to time blocks
-// Function to apply past, present, and future styles to time blocks
 function applyTimeBlockStyles() {
   const currentHour = dayjs().hour();
 
